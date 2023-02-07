@@ -15,3 +15,12 @@ Enlace tablero: https://trello.com/b/SGP3lspm/tablero-pr1
 Tablero inicial:
 
 <img src='/tablero_inicial.jpg' width='700px'>
+
+### GitHub
+Usuario: ecv00021
+
+URL del perfil: https://github.com/ecv00021
+
+Página de inicio:
+
+<img src='/inicio_github.jpg' width='700px'>
